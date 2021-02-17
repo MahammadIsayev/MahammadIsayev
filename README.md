@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MahammadIsayev
 - 👀 I’m studying Computer Science BSc at Eötvös Loránd University
 - 🌱 I’m currently learning Java and CSS3
-- 💞️ I hope it my repositories would be helpful for you
+- 💞️ I hope that my repositories would be helpful for you
 
 
 <!---
